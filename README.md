@@ -11,8 +11,7 @@ Building intelligent things with code.
 
 <div align="center">
 
-<a href="https://github.com/akanshsingh02">GitHub</a>
-&nbsp;·&nbsp;
+
 <a href="https://www.linkedin.com/in/akanshsingh02/">LinkedIn</a>
 
 </div>
