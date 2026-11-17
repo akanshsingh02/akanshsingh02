@@ -49,11 +49,3 @@ AI & Emerging Technologies
 <div align="center">
 
 Stay curious. Keep building.
-
-The journey is the project.
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=akanshsingh02&style=flat-square&color=64748B&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
