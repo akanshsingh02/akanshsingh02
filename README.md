@@ -7,14 +7,17 @@ turning curiosity into code
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning;Learning+Deep+Learning;Building+with+Generative+AI;Experimenting+with+AI+Automation;Turning+ideas+into+intelligent+systems" alt="Animated introduction"/>
 
 <br/>
-
-
 <div align="center">
+  <a href="https://www.linkedin.com/in/akanshsingh02/">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:akanshsinghhh02@gmail.com">Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akanshsingh02/">Instagram</a>
 
-
-<a href="https://www.linkedin.com/in/akanshsingh02/">LinkedIn</a>
-
+  
 </div>
+
+
 
 
 </div>
