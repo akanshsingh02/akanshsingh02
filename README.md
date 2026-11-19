@@ -1,8 +1,8 @@
 <div align="center">
 
-**Akansh Singh**
+### Akansh Singh
 
-Building intelligent things with code.
+turning curiosity into code
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning;Learning+Deep+Learning;Building+with+Generative+AI;Experimenting+with+AI+Automation;Turning+ideas+into+intelligent+systems" alt="Animated introduction"/>
 
@@ -19,19 +19,18 @@ Building intelligent things with code.
 
 </div>
 
-I'm a Computer Science student interested in Artificial Intelligence, software development, and building technology that solves real-world problems.
 
-- I enjoy exploring new concepts, experimenting with emerging technologies, and turning what I learn into practical applications.
 
-- Currently exploring Machine Learning and Deep Learning
+Computer Science student fascinated by the intersection of AI, software, and real-world problem-solving.
 
-- Learning to build applications using Generative AI and LLMs
+- Exploring Machine Learning & Deep Learning.
+- Building applications with Generative AI & LLMs.
+- Experimenting with AI Automation & intelligent workflows.
+- Engineering software that solves problems beyond the screen.
 
-- Experimenting with AI Automation and intelligent workflows
+Curious by nature. Builder by choice. Debugger by necessity.
 
-- Developing practical applications through software engineering
 
-Learn continuously. Build consistently. Improve relentlessly.
 
 Programming Languages
 
