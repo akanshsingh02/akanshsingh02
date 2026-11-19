@@ -1,6 +1,6 @@
 <div align="center">
 
-Akansh Singh
+**Akansh Singh**
 
 Building intelligent things with code.
 
